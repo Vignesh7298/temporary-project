@@ -94,14 +94,22 @@ public static WebDriver driver;
 		s.selectByValue("string");
 		
 	}
-	private void bott() {
-	System.out.println("bott");
+	  private void vicky() {
+			System.out.println("vicky");
+			}
+		    
+	  private void bot() {
+				System.out.println("bot");
+			}
+		    
+	  private void bott() {
+		    	System.out.println("bott");
 
-	}
-	
-	
-	
+		    	}
 }
+
+	
+
 
 	
 
