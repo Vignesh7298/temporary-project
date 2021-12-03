@@ -98,6 +98,10 @@ public static WebDriver driver;
 		System.out.println("vicky");
 		}
 	    
+	    private void bot() {
+			System.out.println("bot");
+		}
+	    
 	
 	
 	
