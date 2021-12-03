@@ -93,19 +93,23 @@ public static WebDriver driver;
 		Select s = new Select(dropdown);
 		s.selectByValue("string");
 		
-		}
-	    private void vicky() {
-		System.out.println("vicky");
-		}
-	    
-	    private void bot() {
-			System.out.println("bot");
-		}
-	    
-	
-	
-	
+	}
+	  private void vicky() {
+			System.out.println("vicky");
+			}
+		    
+	  private void bot() {
+				System.out.println("bot");
+			}
+		    
+	  private void bott() {
+		    	System.out.println("bott");
+
+		    	}
 }
+
+	
+
 
 	
 
