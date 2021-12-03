@@ -93,8 +93,9 @@ public static WebDriver driver;
 		Select s = new Select(dropdown);
 		s.selectByValue("string");
 		
-		
-		
+	}
+	private void bott() {
+	System.out.println("bott");
 
 	}
 	
